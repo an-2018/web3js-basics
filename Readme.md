@@ -5,7 +5,7 @@
 - Ethereum devlopment in 2 parts:
     - smart contract development;
     - client side to talk with ethereum blockchain, website or app;
-- RPC - remote procedure protocol;
+- RPC - remote procedure call;
 - json rpc to make a request to a node in blockchain;
 
 <div>
