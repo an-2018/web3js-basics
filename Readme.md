@@ -5,11 +5,8 @@
 - RPC - remote procedure protocol;
 - json rpc to make a request to a node in blockchain;
 
-"https://www.dappuniversity.com/web3-js-diagram.png"
-
 <div>
-<h1>Hello</h1>
-<img src="https://www.dappuniversity.com/web3-js-diagram.png" alt="jsjn">
+<img style="max-width: 50%;" src="https://www.dappuniversity.com/web3-js-diagram.png" alt="jsjn">
 </div>
 
 ### Requirements
@@ -26,3 +23,5 @@ npm install web3
 ```
 ## References
 [Web3js Dapp University](https://www.dappuniversity.com/articles/web3-js-intro)
+
+
