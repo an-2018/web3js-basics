@@ -1,0 +1,22 @@
+{
+  "name": "web3js-basics",
+  "version": "1.0.0",
+  "description": "- web3js library the main js labrary to interact with ethereum blockchain.\r - Ethereum devlopment in 2 parts:\r     - smart contract development;\r     - client side to talk with ethereum blockchain, website or app;\r - RPC - remote procedure protocol;\r - json rpc to make a request to a node in blockchain;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an-2018/web3js-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/an-2018/web3js-basics/issues"
+  },
+  "homepage": "https://github.com/an-2018/web3js-basics#readme",
+  "dependencies": {
+    "web3": "^1.2.9"
+  }
+}
