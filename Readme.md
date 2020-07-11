@@ -9,7 +9,7 @@
 
 <div>
 <h1>Hello</h1>
-<img style="max-with:120px;" src="https://www.dappuniversity.com/web3-js-diagram.png" alt="jsjn">
+<img style="max-with:50%" src="https://www.dappuniversity.com/web3-js-diagram.png" alt="jsjn">
 </div>
 
 ### Requirements
