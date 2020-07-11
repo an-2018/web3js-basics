@@ -36,7 +36,7 @@ var web3 = new Web3(url)
 
 Go to **Etherscan/acounts** and get an account address.
 
-And use we3.eth.getBalance to get the balance of the account.
+And use ```we3.eth.getBalance``` to get the balance of the account.
 ```js
 // random address found on etherscan
 var address = '0x742d35Cc6634C0532925a3b844Bc454e4438f44e' 
