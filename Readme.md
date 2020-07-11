@@ -7,9 +7,9 @@
 
 ![web3js diagram](https://www.dappuniversity.com/web3-js-diagram.png)
 
-<div class="demo">
+<div>
 <h1>Hello</h1>
-<img src="https://www.dappuniversity.com/web3-js-diagram.png" alt="jsjn">
+<img style="max-with:120px;" src="https://www.dappuniversity.com/web3-js-diagram.png" alt="jsjn">
 </div>
 
 ### Requirements
@@ -27,8 +27,4 @@ npm install web3
 ## References
 [Web3js Dapp University](https://www.dappuniversity.com/articles/web3-js-intro)
 
-<style>
-.demo{
-    width:64px;
-    }
-</style>
+
