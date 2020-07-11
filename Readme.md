@@ -56,13 +56,17 @@ It then return the address and private key.
 
 ### Running locally
 Using Ganache, witch is basicly a way to run an ethereum blockchain on our personal computer for dev and testing purpuses. 
-More about Ganache on [truffke Suite Ganche One Click Blockchain](https://www.trufflesuite.com/ganache).
+More about Ganache on [Trufflesuite Ganache One Click Blockchain](https://www.trufflesuite.com/ganache).
 
 we can do the same steps above for the local environement by using the url of the local network, and using the address avaible on the ganache user interface to check the address's and balances of then.
 ## References
 [Web3js Dapp University](https://www.dappuniversity.com/articles/web3-js-intro)
-
-Etherscan - get information about acounts on ethereum net
+- blockchain tutorials and courses
 [Etherscan](https://etherscan.io/)
+- Etherscan - get information about acounts on ethereum net
+[Ganache](https://www.trufflesuite.com/ganache)
+- run a local ethereum network
+
+
 
 
