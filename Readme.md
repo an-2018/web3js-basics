@@ -5,7 +5,7 @@
 - RPC - remote procedure protocol;
 - json rpc to make a request to a node in blockchain;
 
-<img href="https://www.dappuniversity.com/web3-js-diagram.png">
+![web3js diagram](https://www.dappuniversity.com/web3-js-diagram.png)
 
 ### Requirements
 - nodejs;
