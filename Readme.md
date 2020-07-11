@@ -7,6 +7,9 @@
 
 ![web3js diagram](https://www.dappuniversity.com/web3-js-diagram.png)
 
+_____________________________________________________
+https://www.dappuniversity.com/web3-js-diagram.png
+_____________________________________________________
 ### Requirements
 - nodejs;
 - web3js library;
