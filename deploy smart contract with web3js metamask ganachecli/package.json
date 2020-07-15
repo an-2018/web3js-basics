@@ -1,0 +1,11 @@
+{
+  "name": "web3jsmetamaskprototype",
+  "version": "1.0.0",
+  "description": "![The stack](https://medium.com/coinmonks/get-started-with-building-ethereum-dapps-and-smart-contracts-d86b9f7bd1c)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

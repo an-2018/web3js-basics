@@ -59,6 +59,7 @@ Using Ganache, witch is basicly a way to run an ethereum blockchain on our perso
 More about Ganache on [Trufflesuite Ganache One Click Blockchain](https://www.trufflesuite.com/ganache).
 
 we can do the same steps above for the local environement by using the url of the local network, and using the address avaible on the ganache user interface to check the address's and balances of then.
+
 ## References
 [Web3js Dapp University](https://www.dappuniversity.com/articles/web3-js-intro)
 - blockchain tutorials and courses
@@ -68,5 +69,27 @@ we can do the same steps above for the local environement by using the url of th
 - run a local ethereum network
 
 
+### Blog Tutorials
+
+[Connect React App tp ethereum - Metamask and Truffle Utilization](https://medium.com/fullstacked/connect-react-to-ethereum-b117986d56c1)
+
+
+### Video Tutorials
+## Recomended
+[Dapp University - Intro to Web3js](https://www.dappuniversity.com/articles/web3-js-intro)
+
+[Integreate Web3 with Metamask](https://youtu.be/LzdMosLzj80)
+
+[Solidity Tutotial - Full Course on Ethereum, Blockchain Development, Smart Contract and EVM](https://youtu.be/ipwxYa-F1uY)
+
+[Build 5 Dapps on the Ethereum Blockchain - Beginner Tutorial](https://youtu.be/8wMKq7HvbKw)
+
+[Solidity Smart Contract Tutorial - 1h Build 5 Smart Contract](https://youtu.be/togl4DdYah0)
+
+### Concepts
+
+[Whats the diference Betwen coins and Tokens](https://www.ledger.com/academy/crypto/what-is-the-difference-between-coins-and-tokens)
+
+[What are ERFC20 Tokes](https://www.ledger.com/academy/crypto/what-are-erc20-tokens/)
 
 
