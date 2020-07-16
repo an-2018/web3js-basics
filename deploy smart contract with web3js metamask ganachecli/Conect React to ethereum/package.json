@@ -1,0 +1,14 @@
+{
+  "name": "sampletruffleapp",
+  "version": "1.0.0",
+  "description": "Programing on ethereum basicly has 2 layers the **Smart Contracts** that interact with the ethereum blockchain on itself, and **Dapps** as alayer to interact with the smartcontract.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.1.34"
+  }
+}
